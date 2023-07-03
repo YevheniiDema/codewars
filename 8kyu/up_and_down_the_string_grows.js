@@ -13,3 +13,4 @@
 
 // SOLUTION:
 const STRANGE_STRING = "aß";
+console.log(STRANGE_STRING);
